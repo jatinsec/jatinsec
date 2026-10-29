@@ -9,7 +9,7 @@
 *Breaking web apps and APIs in authorized scopes, writing it up properly, and learning the next class of bug.*
 
 [![Email](https://img.shields.io/badge/Email-jatin.security%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:jatin.security@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jatin--patidar--portfolio-0A66C2?style=flat-square&logo=github&logoColor=white)](https://jatinpatel-hacker33.github.io/jatin-patidar-portfolio/)
+[![Portfolio](https://jatinsec.github.io//)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207697892082-0A66C2?style=flat-square)](tel:+917697892082)
 
 </div>
