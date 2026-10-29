@@ -23,10 +23,6 @@ web application and API security. I spend most of my time on authorized bug boun
 careful, read-only recon and manual testing, writing reproducible reports, and learning from every
 "not accepted" as much as every confirmed finding.
 
-I'm a **fresher** — I'm not claiming prior employment, a security certification, or senior-level
-experience. What I can show is real, reproducible work: scope-respecting assessments with evidence,
-documented honestly including what *wasn't* found.
-
 **Career objective:** land an entry-level penetration testing / AppSec role (or a strong bug bounty
 track record) where I can keep building depth in web/API security under real program rules and
 real accountability for evidence.
