@@ -106,7 +106,7 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 
 ### CVE research
 
-[**jatinpatel-hacker33/cve**](jatinsec/my-cves)
+[**jatinsec/cve**](https://github.com/jatinsec/my-cves)
 
 ---
 
