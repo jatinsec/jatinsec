@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a BCA student at **Amity University Noida**, and an independent security researcher focused on
+I'm a independent security researcher focused on
 web application and API security. I spend most of my time on authorized bug bounty scopes — doing
 careful, read-only recon and manual testing, writing reproducible reports, and learning from every
 "not accepted" as much as every confirmed finding.
@@ -54,7 +54,7 @@ I use these tools regularly for recon and manual testing — I'd call myself sol
 Burp Suite, Subfinder/HTTPX/Nuclei and curl-based manual testing, and still building depth on the
 rest. I'm not claiming expert-level mastery across the board.
 
-## 🎓 Certifications :  CEH - Master, eCPPT, eWPTX, eJPT, OSCP .
+## 🎓 Certifications :  CEH , eCPPT, eWPTX, eJPT  .
 
 ---
 
@@ -105,7 +105,7 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 
 ### CVE research
 
-[**jatinpatel-hacker33/cve**](https://github.com/jatinpatel-hacker33/cve-) 
+[**jatinpatel-hacker33/cve**](https://github.com/jatinsec/my-cves)
 
 ---
 
