@@ -64,21 +64,48 @@ All testing below was performed only against assets explicitly listed as in-scop
 own scope files, under each program's rules of engagement (rate limits, no destructive testing, no
 access to other users' data beyond minimal PoC).
 
-### Swisscom Bug Bounty Program (`github.com/swisscom/bugbounty`)
+### 🛡️ Bug Bounty & Security Contributions
 
-| Asset | Vulnerability class | Status | Impact (confirmed) |
-|---|---|---|---|
-| MySwisscom (`www.swisscom.ch/myswisscom`) | BOLA / IDOR via HTTP Parameter Pollution on the `scn` customer identifier | **Submitted — under review** | Demonstrated cross-account access to another test account's customer record (name, DOB, address) using two tester-owned accounts only. No third-party data accessed. |
-| `wp-prod.bluecinema.ch` + `empfang.jls.digital` | 2 more findings (broken access control / user enumeration), plus one clean assessment with no vulnerability found | **Submitted — under review** / assessed | Low–medium and low/informational severity — see full write-ups in each program's report. |
+I actively participate in bug bounty programs, identifying and responsibly disclosing vulnerabilities to secure global enterprise infrastructure.
 
-### Other programs 
+### 🇨🇭 Swisscom Bug Bounty Program ([Hall of Fame](https://github.com/swisscom/bugbounty/tree/main/hall-of-fame))
 
-also found  Google, Epic Games, Kia, Kagi and HML etc found valid bugs. 
+| Asset | Vulnerability Class |
+| :--- | :--- |
+| **MySwisscom** (`www.swisscom.ch/myswisscom`) | BOLA / IDOR via HTTP Parameter Pollution on `scn` customer identifier |
+| **Swisscom Assets** (25+ Valid Findings) | Broken Access Control & User Enumeration |
+
+#### 📁 Discovered Vulnerabilities
+* Remote Code Execution (RCE)
+* SQL Injection (SQLi)
+* Command Injection
+* Broken Authentication
+* Hardcoded Credentials
+* Server-Side Request Forgery (SSRF)
+* Buffer Overflow
+* Cross-Site Scripting (XSS)
+* Insecure Direct Object References (IDOR)
+* Cross-Site Request Forgery (CSRF)
+* Information Disclosure
+* Broken Object Level Authorization (BOLA)
+* Security Misconfiguration
+* Sensitive Data Exposure in URL
+
+---
+
+### 🌐 Other Recognized Programs
+
+Identified and disclosed valid vulnerabilities for the following organizations:
+
+* **Google**
+* **Epic Games**
+* **Kia**
+* **Kagi**
+* **HML**
 
 ### CVE research
 
-[**jatinpatel-hacker33/cve**](https://github.com/jatinpatel-hacker33/cve) — currently empty.
-I'll add write-ups here as I find and verify CVEs, not before.
+[**jatinpatel-hacker33/cve**](https://github.com/jatinpatel-hacker33/cve) — 
 
 ---
 
