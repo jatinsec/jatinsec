@@ -125,8 +125,6 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 ---
 
 ## GitHub
-
-- Profile: [github.com/jatinpatel-hacker33](https://github.com/jatinpatel-hacker33)
 - Portfolio site: [jatinpatel-hacker33.github.io/jatin-patidar-portfolio](https://jatinsec.github.io/jatin-patidar-portfolio/)
 
 ## Contact
