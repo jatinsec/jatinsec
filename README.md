@@ -9,8 +9,9 @@
 *Breaking web apps and APIs in authorized scopes, writing it up properly, and learning the next class of bug.*
 
 [![Email](https://img.shields.io/badge/Email-jatin.security%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:jatin.security@gmail.com)
-[![Portfolio](https://jatinsec.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinsec.github.io/)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207697892082-0A66C2?style=flat-square)](tel:+917697892082)
+
 
 </div>
 
