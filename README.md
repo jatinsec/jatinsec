@@ -54,7 +54,7 @@ I use these tools regularly for recon and manual testing — I'd call myself sol
 Burp Suite, Subfinder/HTTPX/Nuclei and curl-based manual testing, and still building depth on the
 rest. I'm not claiming expert-level mastery across the board.
 
-## 🎓 Certifications :  CEH - Master, eCPPT, eWPTX, eJPT, Owasp .
+## 🎓 Certifications :  CEH - Master, eCPPT, eWPTX, eJPT, OSCP .
 
 ---
 
