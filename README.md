@@ -135,5 +135,5 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 ---
 
 <div align="center">
-<sub>Built for authorized security research and responsible disclosure. No claim on this page is made without evidence I can reproduce.</sub>
+<sub>Built for authorized security research and responsible disclosure. No claim on this page is made without evidence I can reproduce.</sub> <div></div>
 </div>
