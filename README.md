@@ -95,6 +95,7 @@ entries here only once I have a real, evidenced result.
 | **[API-Sentinel](https://github.com/jatinpatel-hacker33/API-Sentinel)** | Structured API security assessment & evidence organizer — checklist-driven manual test case tracking with Markdown/JSON report generation, demoed against a local lab API. |
 | **[PurpleTrace](https://github.com/jatinpatel-hacker33/PurpleTrace)** | Lab-based attack-simulation & detection-validation toolkit — generates benign test events for validating logging/detection rules, with documented investigation steps per scenario. |
 | **[google-dork-generator](https://github.com/jatinpatel-hacker33/google-dork-generator)** | Google dork generator for authorized recon during bug bounty engagements. |
+| **[v8-string-memory-research](https://github.com/jatinpatel-hacker33/v8-string-memory-research)** | Independent research + a runnable Node.js cross-check on V8 `SlicedString`/`ConsString` substring memory retention. |
 
 > All three new projects are for **authorized testing and lab use only**. See each repo's README
 > for scope and limitations.
