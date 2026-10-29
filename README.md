@@ -69,10 +69,6 @@ access to other users' data beyond minimal PoC).
 | MySwisscom (`www.swisscom.ch/myswisscom`) | BOLA / IDOR via HTTP Parameter Pollution on the `scn` customer identifier | **Submitted — under review** | Demonstrated cross-account access to another test account's customer record (name, DOB, address) using two tester-owned accounts only. No third-party data accessed. |
 | `wp-prod.bluecinema.ch` + `empfang.jls.digital` | 2 more findings (broken access control / user enumeration), plus one clean assessment with no vulnerability found | **Submitted — under review** / assessed | Low–medium and low/informational severity — see full write-ups in each program's report. |
 
-I don't report payout amounts, CVSS scores beyond what's in the written report, or acceptance status
-beyond "submitted / under review" until the program confirms them — those details will be updated
-here once Swisscom's triage responds.
-
 ### Other programs
 
 I've looked at scope for Google, Epic Games, Kia, Kagi and HML but have **no submitted or accepted
