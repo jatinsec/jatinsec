@@ -54,6 +54,11 @@ I use these tools regularly for recon and manual testing — I'd call myself sol
 Burp Suite, Subfinder/HTTPX/Nuclei and curl-based manual testing, and still building depth on the
 rest. I'm not claiming expert-level mastery across the board.
 
+## 🎓 Certifications
+
+None yet. I sat a certification exam recently and the result is expected within the next few
+days — I'll add the credential here once it's confirmed, not before.
+
 ---
 
 ## Security Research & Responsible Disclosure
@@ -74,6 +79,11 @@ access to other users' data beyond minimal PoC).
 I've looked at scope for Google, Epic Games, Kia, Kagi and HML but have **no submitted or accepted
 finding from any of them yet** — nothing in this section is a claim about those programs. I'll add
 entries here only once I have a real, evidenced result.
+
+### CVE research
+
+[**jatinpatel-hacker33/cve**](https://github.com/jatinpatel-hacker33/cve) — currently empty.
+I'll add write-ups here as I find and verify CVEs, not before.
 
 ---
 
