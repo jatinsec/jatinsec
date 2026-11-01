@@ -59,6 +59,11 @@ rest. I'm not claiming expert-level mastery across the board.
 
 ---
 
+## ## 🏆 Achievements & Recognition
+
+- **Solo Securities Hall of Fame** – Security Research Recognition
+  - [View Hall of Fame](https://solosecurities.com/hall-of-fame)
+
 ## Security Research & Responsible Disclosure
 
 All testing below was performed only against assets explicitly listed as in-scope by the program's
