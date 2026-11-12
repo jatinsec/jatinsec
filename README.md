@@ -108,7 +108,7 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 * **Kia**
 * **Kagi**
 * **HML**
-
+* **solosecurities**
 ### CVE research
 
 [**jatinsec/cve**](https://github.com/jatinsec/my-cves)
