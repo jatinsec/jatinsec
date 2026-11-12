@@ -10,6 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-jatin.security%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:jatin.security@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinsec.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinsec-0A66C2?style=flat-square)](https://www.linkedin.com/in/jatinsec/)
 
 
 
@@ -19,7 +20,7 @@
 
 ## About Me
 
-I'm a independent security researcher focused on
+I'm an independent security researcher focused on
 web application and API security. I spend most of my time on authorized bug bounty scopes — doing
 careful, read-only recon and manual testing, writing reproducible reports, and learning from every
 "not accepted" as much as every confirmed finding.
@@ -55,12 +56,16 @@ I use these tools regularly for recon and manual testing — I'd call myself sol
 Burp Suite, Subfinder/HTTPX/Nuclei and curl-based manual testing, and still building depth on the
 rest. I'm not claiming expert-level mastery across the board.
 
-## 🎓 Certifications :  CEH , eCPPT, eWPTX, eJPT  .
+## 🎓 Certifications
+
+CEH · eCPPT · eWPTX · eJPT
 
 ---
 
-## ## 🏆 Achievements & Recognition
+## 🏆 Achievements & Recognition
 
+- **Swisscom Bug Bounty Hall of Fame** – BOLA/IDOR via HTTP Parameter Pollution on MySwisscom, plus 25+ valid findings on Swisscom assets
+  - [View Hall of Fame](https://github.com/swisscom/bugbounty/tree/main/hall-of-fame)
 - **Solo Securities Hall of Fame** – Security Research Recognition
   - [View Hall of Fame](https://solosecurities.com/hall-of-fame)
 
@@ -108,10 +113,11 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 * **Kia**
 * **Kagi**
 * **HML**
-* **solosecurities**
+* **Solo Securities**
+
 ### CVE research
 
-[**jatinsec/cve**](https://github.com/jatinsec/my-cves)
+[**jatinsec/my-cves**](https://github.com/jatinsec/my-cves)
 
 ---
 
@@ -125,17 +131,16 @@ Identified and disclosed valid vulnerabilities for the following organizations:
 | **[google-dork-generator](https://github.com/jatinsec/google-dork-generator)** | Google dork generator for authorized recon during bug bounty engagements. |
 | **[v8-string-memory-research](https://github.com/jatinsec/v8-string-memory-research)** | Independent research + a runnable Node.js cross-check on V8 `SlicedString`/`ConsString` substring memory retention. |
 
-> All three new projects are for **authorized testing and lab use only**. See each repo's README
+> These tools are for **authorized testing and lab use only**. See each repo's README
 > for scope and limitations.
 
 ---
 
-## GitHub
-- Portfolio site: [https://jatinsec.github.io/]
-
 ## Contact
 
 - **Email:** jatin.security@gmail.com
+- **Portfolio:** [jatinsec.github.io](https://jatinsec.github.io/)
+- **LinkedIn:** [linkedin.com/in/jatinsec](https://www.linkedin.com/in/jatinsec/)
 
 
 ---
